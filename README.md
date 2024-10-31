@@ -28,7 +28,7 @@ Each data structure is optimized for performance and space efficiency and is des
 ### Prerequisites
 
 - **C++17 or newer**: This library requires a C++17-compatible compiler.
-- **Build System**: The library can be built using Visual Studio.
+- **Build System**: The library can be built using Visual Studio 2022.
 
 ### Building the Library
 
