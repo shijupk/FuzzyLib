@@ -1,6 +1,4 @@
-# FuzzyLib
-
-# Probabilistic Data Structures Library in C++
+# FuzzyLib -  Probabilistic Data Structures Library in C++
 
 ## Overview
 
